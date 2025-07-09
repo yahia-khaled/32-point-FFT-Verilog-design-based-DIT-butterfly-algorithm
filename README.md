@@ -52,7 +52,7 @@ Where:
 *Each stage uses 16 dedicated MAC units.*
 
 ### MAC Reuse Architecture
-![MAC Reuse Architecture](images/mac_reuse_architecture.png)  
+![MAC Reuse Architecture](images/FFT_reuse.png)  
 *Only 16 MAC units are reused across all 5 FFT stages using control logic and feedback.*
 
 #### Control Logic Overview
