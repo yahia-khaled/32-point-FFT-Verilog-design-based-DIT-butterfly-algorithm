@@ -48,7 +48,7 @@ Where:
 ## 🏗️ Architecture Diagrams
 
 ### Traditional Multi-Stage FFT
-![Multi-Stage Architecture](images/multi_stage_architecture.png)  
+![Multi-Stage Architecture](images/Multi_stage.png)  
 *Each stage uses 16 dedicated MAC units.*
 
 ### MAC Reuse Architecture
