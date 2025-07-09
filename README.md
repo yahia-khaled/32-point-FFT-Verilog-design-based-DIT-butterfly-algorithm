@@ -5,6 +5,7 @@ A digital hardware project implementing a **32-point Fast Fourier Transform (FFT
 ## 📌 Project Overview
 
 This project aims to implement a **32-point complex FFT** using Verilog with efficient area utilization. Two architectures were developed:
+![MAC Reuse Architecture](images/FFT.png) 
 
 - **Multi-Stage Architecture**: Each of the 5 stages uses dedicated MAC units.
 - **MAC Reuse Architecture**: A more area-efficient version that reuses 16 MAC units across all stages.
