@@ -57,11 +57,11 @@ Where:
 *Only 16 MAC units are reused across all 5 FFT stages using control logic and feedback.*
 
 #### Control Logic Overview
-![Control Unit Diagram](images/control_unit.png)  
+
 *Controls ISL (input select), stage advancement (SB), and valid output flag.*
 
 #### Routing Network
-![Routing Network](images/routing_network.png)  
+
 *Handles input/output permutation and butterfly mapping.*
 
 ---
